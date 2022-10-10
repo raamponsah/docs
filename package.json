@@ -81,7 +81,7 @@
     "is-absolute-url": "4.0.1",
     "lint-staged": "11.2.6",
     "path-browserify": "1.0.1",
-    "prettier": "2.4.1",
+    "prettier": "2.7.1",
     "prettier-plugin-prisma": "2.30.0",
     "prism-react-renderer": "1.2.1",
     "prisma": "2.29.1",
